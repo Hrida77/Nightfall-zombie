@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">Nightfall</string>
+    <string name="title_activity_main">Nightfall</string>
+    <string name="package_name">com.nightfall.zombie</string>
+    <string name="custom_url_scheme">com.nightfall.zombie</string>
+</resources>
